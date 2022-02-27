@@ -6,4 +6,4 @@
 - ArchLinux用户
 - Minecraft玩家
 
-这是我的Blog(尚未上线)：[fotono.life](http://blog.fotono.life)
+这是我的Blog(尚未上线)：[blog.fotono.life](http://blog.fotono.life)
